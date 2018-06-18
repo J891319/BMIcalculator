@@ -1,4 +1,4 @@
-name0 = input('What is the patient\'s name?')
+name0 = str(input('What is the patient\'s name?'))
 weight_kg0 = float(input('What is the weight of the patient? (kg)'))
 height_m0 = float(input('What is the height of the patient? (m)'))
 
